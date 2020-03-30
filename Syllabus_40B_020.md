@@ -48,7 +48,7 @@ Kuntal Pal is a 3rd year physics graduate student who works with Professors Jose
 
 All courses this quarter are offered *online*. This unique situation is an opportunity. This course will have an intimate learning environment that will be largely *asynchronous*: you will have the flexibility to work on the course on your own schedule, but will be required to engage with other students and the teaching team regularly.
 
-**Mastering Physics**: Join course `tanedo04585`
+**Mastering Physics**: course `tanedo04585`
 
 [**Kudu**](https://kudu.com/): Instructions for joining will be sent out via iLearn.
 
@@ -56,7 +56,7 @@ All courses this quarter are offered *online*. This unique situation is an oppor
 
 ==We reserve the right to adapt this format as we go along.== 
 
-A typical week will start with a posted video explaining the goals of the week and the suggested reading.   You will have multiple types of assignments:
+A typical week will start with a posted video explaining the goals of the week and the suggested reading as well as sample problems.   You will have multiple types of assignments:
 
 1. Practice homework problems that are auto-graded, 
 2. 5 minute explainer videos that you produce that teach how to solve a type of problem. 
