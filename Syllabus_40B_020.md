@@ -1,12 +1,12 @@
 # Syllabus: Physics 40B, Spring 2020
 
-Last Updated: March 30
+Last Updated: March 30 (2:12pm)
 
 This is the syllabus for **Physics 40B**: *General Physics* (UCR Spring 2020) **lecture section 020** (Discussion Sections 21, 23, 26, and 27)
 
 ==Please note:== there is a parallel offering of this course (lecture section 001). It is the same course material, but the two courses are otherwise independent.
 
-Physics 40B is the second quarter of the general physics curriculum. We
+Physics 40B is the second quarter of the general physics curriculum. We will primarily cover waves and thermodynamics. 
 
 *All material in this syllabus is subject to changes by the instructor.*
 
