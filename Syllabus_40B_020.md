@@ -211,7 +211,7 @@ Via [registrar.ucr.edu/calendar](https://registrar.ucr.edu/calendar) (subject to
 
 ## Supplemental Instruction (SI)
 
-The peer supplemental instructor (SI) for this course is **Richard Yeong** (lyeon001@ucr.edu), a 4th year mechanical engineering student. You are encouraged to make use of this resource. Please refer to the [UCR Academic Resource Center website](https://arc.ucr.edu/si) on SI for more information. 
+The peer supplemental instructors (SI) for this course are **David Wohlwerth** (dwohl001@ucr.edu) and **Richard Yeong** (BCOE, lyeon001@ucr.edu), a 4th year mechanical engineering student. You are encouraged to make use of this resource. Please refer to the [UCR Academic Resource Center website](https://arc.ucr.edu/si) on SI for more information. 
 
 ## Communications
 
