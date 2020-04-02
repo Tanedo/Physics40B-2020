@@ -1,6 +1,6 @@
 # Syllabus: Physics 40B, Spring 2020
 
-Last Updated: March 31 (9:20am)
+Last Updated: April 2 (12:10pm)
 
 This is the syllabus for **Physics 40B**: *General Physics* (UCR Spring 2020) **lecture section 020** (Discussion Sections 21, 23, 26, and 27)
 
@@ -48,7 +48,7 @@ Kuntal Pal is a 3rd year physics graduate student who works with Professors Jose
 
 All courses this quarter are offered *online*. This unique situation is an opportunity. This course will have an intimate learning environment that will be largely *asynchronous*: you will have the flexibility to work on the course on your own schedule, but will be required to engage with other students and the teaching team regularly.
 
-**Mastering Physics**: you should be able to access this from iLearn under `student tools`. For reference, our course is `tanedo04585` (you shouldn't need the course number to log in).
+**Mastering Physics**: you should be able to access this from iLearn under `student tools`. For reference, our course is `tanedo75369`. 
 
 [**Kudu**](https://kudu.com/): Instructions for joining will be sent out via iLearn.
 
